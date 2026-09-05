@@ -1,0 +1,14 @@
+# Compiler outputs and object files
+*.o
+*.out
+*.exe
+*.bin
+*.iso
+
+# C++ IDE specific folders
+.vscode/
+.idea/
+cmake-build-debug/
+
+# OS Image creation directories
+isodir/
